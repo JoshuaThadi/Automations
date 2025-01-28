@@ -1,3 +1,5 @@
+<div align="center">
+  
 # WhatsApp Automation Program
 
 A Python-based automation tool that sends WhatsApp messages using libraries like `pywhatkit`, `twilio`, `pyautogui`, and `webdriver`. This program automates the process of sending messages to WhatsApp contacts directly from the desktop.
@@ -23,7 +25,10 @@ A Python-based automation tool that sends WhatsApp messages using libraries like
 To use this program, you need to install the required dependencies. Follow the steps below to set up the environment:
 
 ### 1. Clone the repository:
+</div>
+
 
 ```bash
 git clone https://github.com/yourusername/whatsapp-automation.git
 cd whatsapp-automation
+
