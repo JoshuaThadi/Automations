@@ -17,7 +17,12 @@ A Python-based automation tool that sends WhatsApp messages using libraries like
   <img src="https://img.shields.io/badge/Python-whatkit.py-FFD700?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python Badge">
 </a>
 
+The project includes multiple automation solutions:
 
+Deskapp.py: A desktop application-based approach for automating messages seamlessly.
+whatkit.py: A web-based solution offering precise and efficient message automation.
+main.py: Utilizes Twilio for messaging, which operates under specific terms and conditions.
+AIwhat.py: Requires a configured Chromedriver for enhanced automation with AI capabilities.
 
 ## Features
 
