@@ -10,6 +10,7 @@
 
 A Python-based automation tool that sends WhatsApp messages using libraries like `pywhatkit`, `twilio`, `pyautogui`, and `webdriver`. This program automates the process of sending messages to WhatsApp contacts directly from the desktop.
 
+### Preferred
 <a href="https://github.com/JoshuaThadi/Whatsapp-Automation/blob/main/WhatsappAuto/Deskapp.py">
   <img src="https://img.shields.io/badge/Python-Deskapp.py-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
 
