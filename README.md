@@ -1,3 +1,19 @@
+
+<div align="center">
+  <a href="#">
+    <img 
+      width="100%" 
+      src="https://capsule-render.vercel.app/api?type=waving&color=32de84&height=120&section=header&text=&fontSize=30&fontColor=000000&animation=twinkling"
+    />
+  </a>
+  <br>
+
+
+
+
+
+
+
 <div align="center">
 
 <p align="center">
@@ -52,4 +68,15 @@ To use this program, you need to install the required dependencies. Follow the s
 ```bash
 git clone https://github.com/yourusername/whatsapp-automation.git
 cd whatsapp-automation
+```
 
+
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=4FFFB0&height=80&section=footer"
+    width="100%" 
+  />
+</p>
+</div>
