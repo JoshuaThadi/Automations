@@ -23,7 +23,7 @@ The project includes multiple automation solutions:
 <b>Deskapp.py:</b> A desktop application-based approach for automating messages seamlessly.
 <b>whatkit.py:</b> A web-based solution offering precise and efficient message automation.
 <b>main.py:</b> Utilizes Twilio for messaging, which operates under specific terms and conditions.
-<b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation with AI capabilities.
+<b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation.
 
 ## Features
 
