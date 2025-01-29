@@ -79,4 +79,4 @@ cd whatsapp-automation
     width="100%" 
   />
 </p>
-</div>
+
