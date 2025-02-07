@@ -57,20 +57,6 @@ The project includes multiple automation solutions:
 - `pyautogui` for GUI automation
 - `webdriver` for browser automation
 
-## Installation
-
-To use this program, you need to install the required dependencies. Follow the steps below to set up the environment:
-
-### 1. Clone the repository:
-</div>
-
-
-```bash
-git clone https://github.com/yourusername/whatsapp-automation.git
-cd whatsapp-automation
-```
-
-
 
 
 <p align="center">
