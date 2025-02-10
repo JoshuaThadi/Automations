@@ -41,23 +41,6 @@ The project includes multiple automation solutions:
 <b>main.py:</b> Utilizes Twilio for messaging, which operates under specific terms and conditions.
 <b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation.
 
-## Features
-
-- Send WhatsApp messages at scheduled times.
-- Automate WhatsApp messages using Python.
-- Integration with `pywhatkit` for WhatsApp messaging.
-- Uses `twilio` for messaging features and `pyautogui` for controlling the desktop interface.
-- Automation with `webdriver` to interact with the WhatsApp Web interface.
-
-## Technologies
-
-- Python 3.x
-- `pywhatkit` for WhatsApp messaging
-- `twilio` for messaging and notification services
-- `pyautogui` for GUI automation
-- `webdriver` for browser automation
-
-
 
 <p align="center">
   <img 
