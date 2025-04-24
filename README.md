@@ -42,6 +42,11 @@ The project includes multiple automation solutions:
 <b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation.
 
 
+
+---
+
+⚠️ This repository is uniquely designed by <strong>@JoshuaThadi</strong>
+
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=4FFFB0&height=80&section=footer"
