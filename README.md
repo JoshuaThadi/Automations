@@ -23,8 +23,12 @@ Whether it's automating file operations, browser tasks, messaging apps, or syste
 <a href="https://www.ibm.com/think/topics/automation" target="_blank">
   <img src="https://img.shields.io/badge/IBM-Automation-23A7DB?style=for-the-badge&logo=firefox&logoColor=white" alt="IBM Automation Badge"></a>
 <a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Selenium-4.0.0-38D99B?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge">
-</a>
+  <img src="https://img.shields.io/badge/Selenium-4.0.0-38D99B?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"></a>
+<a href="https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html" target="_blank">
+  <img src="https://img.shields.io/badge/TensorFlow-Automated_Deployment-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
+<a href="https://autokeras.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Keras-AutoKeras-E4233B?style=for-the-badge&logo=keras&logoColor=white" alt="Keras AutoKeras Badge"></a>
+
 
 
 
