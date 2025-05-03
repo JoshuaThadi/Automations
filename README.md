@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
   <a href="#">
     <img 
@@ -58,38 +60,41 @@ Here are some of the common technologies, libraries, and tools featured in this 
 
 
 
+<table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
+  <tr>
+    <td align="center" style="background: #111; padding: 20px; border-radius: 10px; border: 1px solid #25D366">
+      
+  <p align="center">
+<img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" alt="WhatsApp Icon" width="100px">
+  </p>
+      
+  <h2 align="center" style="color:#25D366;">WhatsApp Automation</h2>
+      
+  <p align="center" style="color: #e0e0e0;">
+      A Python-based automation tool that sends WhatsApp messages using libraries like <code>pywhatkit</code>, <code>twilio</code>, <code>pyautogui</code>, and <code>webdriver</code>.
+      This program automates the process of sending messages to WhatsApp contacts directly from the desktop.
+  </p>
 
+  <h4 style="color:#ffffff;">Preferred</h4>
+      
+  <a href="https://github.com/JoshuaThadi/Whatsapp-Automation/blob/main/WhatsappAuto/Deskapp.py" target="_blank">
+        <img src="https://img.shields.io/badge/Python-Deskapp.py-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" height="30"></a>
+   <a href="https://github.com/JoshuaThadi/Whatsapp-Automation/blob/main/WhatsappAuto/whatkit.py" target="_blank">
+        <img src="https://img.shields.io/badge/Python-whatkit.py-FFD700?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" height="30">
+      </a>
+    
 
-
-<div align="center">
-
-
-
-<p align="center">
-  <img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" alt="WhatsApp Icon" width="150px">
-</p>
-  
-<h1 align="center" style="color:#25D366;">
-  WhatsApp Automation
-</h1>
-
-A Python-based automation tool that sends WhatsApp messages using libraries like `pywhatkit`, `twilio`, `pyautogui`, and `webdriver`. This program automates the process of sending messages to WhatsApp contacts directly from the desktop.
-
-### Preferred
-<a href="https://github.com/JoshuaThadi/Whatsapp-Automation/blob/main/WhatsappAuto/Deskapp.py">
-  <img src="https://img.shields.io/badge/Python-Deskapp.py-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"></a>
-
-  <a href="https://github.com/JoshuaThadi/Whatsapp-Automation/blob/main/WhatsappAuto/whatkit.py">
-  <img src="https://img.shields.io/badge/Python-whatkit.py-FFD700?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python Badge">
-</a>
-
-The project includes multiple automation solutions:
-
-<b>Deskapp.py:</b> A desktop application-based approach for automating messages seamlessly.
-<b>whatkit.py:</b> A web-based solution offering precise and efficient message automation.
-<b>main.py:</b> Utilizes Twilio for messaging, which operates under specific terms and conditions.
-<b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation.
-
+    
+  <p align="center" style="color: #e0e0e0;">
+     <b>Deskapp.py:</b> A desktop application-based approach for automating messages seamlessly.<br>
+      <b>whatkit.py:</b> A web-based solution offering precise and efficient message automation.<br>
+        <b>main.py:</b> Utilizes Twilio for messaging, which operates under specific terms and conditions.<br>
+        <b>AIwhat.py:</b> Requires a configured Chromedriver for enhanced automation.
+  </p>
+    
+   </td>
+  </tr>
+ </table>
 
 
 ---
@@ -102,4 +107,6 @@ The project includes multiple automation solutions:
     width="100%" 
   />
 </p>
+
+
 
