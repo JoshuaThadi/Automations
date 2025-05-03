@@ -36,9 +36,8 @@ This repository contains a collection of automation tools and scripts developed 
 - Handle repetitive and mundane tasks
 - Experiment with bots, schedulers, and system automation
 
-
+## 📍 Projects
 </div>
-
 
 
 <table align="center" style="border-collapse: separate; border-spacing: 10px; width: 60%;">
