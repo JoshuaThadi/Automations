@@ -13,6 +13,10 @@
 
 
 <div align="left">
+<img src="https://www.svgrepo.com/download/354321/selenium.svg" alt="WhatsApp Icon" width="100px">
+<img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="WhatsApp Icon" width="100px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="WhatsApp Icon" width="100px">
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="WhatsApp Icon" width="100px">
   
 # ⚙️ Automation Repository
 
