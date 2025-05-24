@@ -263,7 +263,7 @@
 <img src="https://static-00.iconduck.com/assets.00/whatsapp-icon-2040x2048-8b5th74o.png" alt="WhatsApp Icon" width="100px">
   </p>-->
       
-  <h2 align="center" style="color:#25D366;">WhatsApp Automation</h2>
+  <h2 align="left" style="color:#25D366;">1] WhatsApp Automation</h2>
       
   <p align="left" style="color: #e0e0e0;">
       A Python-based automation tool that sends WhatsApp messages using libraries like <code>pywhatkit</code>, <code>twilio</code>, <code>pyautogui</code>, and <code>webdriver</code>.
