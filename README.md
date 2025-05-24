@@ -80,13 +80,11 @@
   <a href="https://www.tricentis.com/products/tosca" target="_blank">
   <img src="https://img.shields.io/badge/Tosca-Model%20Based%20Testing-1877F2?style=for-the-badge&logo=tricentis&logoColor=white" alt="Tricentis Tosca"></a>
 
+  <a href="https://appium.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Appium-Mobile%20Automation-4D4DFF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"></a>
 
 <a href="https://www.cypress.io/" target="_blank">
   <img src="https://img.shields.io/badge/Cypress-E2E%20Testing-81a1c1?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"></a>
-
-
-<a href="https://appium.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Appium-Mobile%20Automation-4D4DFF?style=for-the-badge&logo=appium&logoColor=white" alt="Appium"></a>
 
 <a href="https://smartbear.com/product/testcomplete/overview/" target="_blank">
   <img src="https://img.shields.io/badge/TestComplete-UI%20Testing-007FFF?style=for-the-badge&logo=smartbear&logoColor=white" alt="TestComplete"></a>
@@ -141,9 +139,7 @@
 6] <b>Security Automation</b> – Automates threat detection and response. <br>
 
 <a href="https://grafana.com/solutions/monitoring/" target="_blank"> <img src="https://img.shields.io/badge/Monitoring%20%26%20Logging-Observability-449C92?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring and Logging Badge"></a>
-<a href="https://owasp.org/www-project-automated-threats/" target="_blank"> <img src="https://img.shields.io/badge/Security%20Automation-Threat%20Detection-2E8B7E?style=for-the-badge&logo=owasp&logoColor=white" alt="Security Automation Badge"></a>
-
-<a href="https://www.guru99.com/unit-testing-guide.html" target="_blank"> <img src="https://img.shields.io/badge/Test%20Automation-Fundamentals-A8DADC?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Automation Badge"></a>
+<a href="https://owasp.org/www-project-automated-threats/" target="_blank"> <img src="https://img.shields.io/badge/Security%20Automation-Threat%20Detection-2E8B7E?style=for-the-badge&logo=owasp&logoColor=white" alt="Security Automation Badge"></a> <a href="https://www.guru99.com/unit-testing-guide.html" target="_blank"> <img src="https://img.shields.io/badge/Test%20Automation-Fundamentals-A8DADC?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Automation Badge"></a>
 <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank"> <img src="https://img.shields.io/badge/CI%2FCD-Frequent%20Deployments-6EB8A8?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Badge"></a> 
 <a href="https://cucumber.io/docs/bdd/" target="_blank"> <img src="https://img.shields.io/badge/BDD-Domain%20Driven%20Testing-8EC6B7?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD Badge"></a> 
 <a href="https://www.terraform.io/intro" target="_blank"> <img src="https://img.shields.io/badge/Infrastructure-Automation-58A99E?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure Automation Badge"></a> 
@@ -158,30 +154,25 @@
 4] <b>Business Automation</b> - Zapier, Power Automate, Nintex <br>
 5] <b>Monitoring & Alerting</b> - Nagios, Prometheus, Grafana <br>
 
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://img.shields.io/badge/Terraform-IaC-5E81AC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"></a> 
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/Jenkins-CI/CD-88C0D0?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"></a> 
 <a href="https://powerautomate.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power%20Automate-Workflow%20Automation-81A1C1?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" alt="Power Automate Badge"></a> 
 <a href="https://www.automationanywhere.com/" target="_blank"> <img src="https://img.shields.io/badge/Automation%20Anywhere-Process%20Automation-81A1C1?style=for-the-badge&logo=automationanywhere&logoColor=white" alt="Automation Anywhere Badge"></a> 
 <a href="https://www.nagios.org/" target="_blank"> <img src="https://img.shields.io/badge/Nagios-Infrastructure%20Monitoring-88C0D0?style=for-the-badge&logo=nagios&logoColor=white" alt="Nagios Badge"></a> 
 <a href="https://playwright.dev/" target="_blank"> <img src="https://img.shields.io/badge/Playwright_Cross-browser%20Testing-5E81AC?style=for-the-badge&logo=microsoft&logoColor=white" alt="Playwright Badge"></a>
 <a href="https://prometheus.io/" target="_blank"> <img src="https://img.shields.io/badge/Prometheus-Metrics%20Monitoring-81A1C1?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus Badge"></a> 
-
-
-<a href="https://appium.io/" target="_blank"> <img src="https://img.shields.io/badge/Appium-Mobile%20Automation-4C566A?style=for-the-badge&logo=appium&logoColor=white" alt="Appium Badge"></a>
-
-
-
 <a href="https://github.com/features/actions" target="_blank"> <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-4C566A?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"></a>
-<a href="https://www.uipath.com/" target="_blank"> <img src="https://img.shields.io/badge/UiPath-RPA%20Platform-88C0D0?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Badge"></a> 
-
+<a href="https://appium.io/" target="_blank"> <img src="https://img.shields.io/badge/Appium-Mobile%20Automation-4C566A?style=for-the-badge&logo=appium&logoColor=white" alt="Appium Badge"></a>
 <a href="https://www.blueprism.com/" target="_blank"> <img src="https://img.shields.io/badge/Blue%20Prism-Digital%20Workers-5E81AC?style=for-the-badge&logo=blueprism&logoColor=white" alt="Blue Prism Badge"></a>
 <a href="https://zapier.com/" target="_blank"> <img src="https://img.shields.io/badge/Zapier-App%20Integration-88C0D0?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier Badge"></a> 
 
 <a href="https://www.nintex.com/" target="_blank"> <img src="https://img.shields.io/badge/Nintex-Process%20Management-5E81AC?style=for-the-badge&logo=nintex&logoColor=white" alt="Nintex Badge"></a>
 <a href="https://grafana.com/" target="_blank"> <img src="https://img.shields.io/badge/Grafana-Dashboarding-5E81AC?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana Badge"></a>
 <a href="https://www.selenium.dev/" target="_blank"> <img src="https://img.shields.io/badge/Selenium-Web%20Testing-88C0D0?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"></a> 
-<a href="https://www.cypress.io/" target="_blank"> <img src="https://img.shields.io/badge/Cypress-E2E%20Testing-81A1C1?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge"></a> 
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.shields.io/badge/Ansible-Config%20Mgmt-81A1C1?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a>
-<a href="https://www.terraform.io/" target="_blank"> <img src="https://img.shields.io/badge/Terraform-IaC-5E81AC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"></a> 
-<a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/Jenkins-CI/CD-88C0D0?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"></a> 
+<a href="https://www.cypress.io/" target="_blank"> <img src="https://img.shields.io/badge/Cypress-E2E%20Testing-81A1C1?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge"></a> 
+<a href="https://www.uipath.com/" target="_blank"> <img src="https://img.shields.io/badge/UiPath-RPA%20Platform-88C0D0?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Badge"></a> 
+
 
 <h3>✮ Common Automation Subjects</h3>
 
@@ -206,11 +197,6 @@
   <a href="https://www.wiz.io/" target="_blank">
   <img src="https://img.shields.io/badge/Wiz-Cloud%20Security%20Automation-5E81AC?style=for-the-badge&logo=wiz&logoColor=white" alt="Wiz Badge"></a>
 
-<!-- 1. Test Automation -->
-<a href="https://www.selenium.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Selenium-Test%20Automation-88C0D0?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"></a>
-
-
 <!-- 2. CI/CD Pipelines -->
 <a href="https://github.com/actions" target="_blank">
   <img src="https://img.shields.io/badge/GitHub%20Actions-CI/CD%20Pipeline-81A1C1?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions Badge"></a>
@@ -225,6 +211,10 @@
 
 <a href="https://www.zapier.com/" target="_blank">
   <img src="https://img.shields.io/badge/Zapier-No%20Code%20Automation-81A1C1?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier Badge"></a>
+
+  <!-- 1. Test Automation -->
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Selenium-Test%20Automation-88C0D0?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Badge"></a>
 
 <!-- 5. Security Automation -->
 <a href="https://www.osquery.io/" target="_blank">
