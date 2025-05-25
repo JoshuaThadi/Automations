@@ -14,16 +14,16 @@
 
 <div align="left">
 <a href="https://www.selenium.dev/">
-  <img src="https://www.svgrepo.com/download/354321/selenium.svg" alt="WhatsApp Icon" width="70px"></a>
+  <img src="https://www.svgrepo.com/download/354321/selenium.svg" alt="WhatsApp Icon" width="80px"></a>
 
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tensorflow.org/&ved=2ahUKEwiczbr8x7yNAxUZRWcHHZeTJwYQFnoECBgQAQ&usg=AOvVaw0TGZBeXHx2CVPI2FiDZclR">  
-  <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="WhatsApp Icon" width="70px"></a>
+  <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="WhatsApp Icon" width="80px"></a>
 
 <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://keras.io/&ved=2ahUKEwjR7_uNyLyNAxVZRWcHHW1yFbYQFnoECB0QAQ&usg=AOvVaw202JaS4UanG9bHmxJAu6V_">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="WhatsApp Icon" width="70px"></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="WhatsApp Icon" width="80px"></a>
 
 <a href="https://www.postman.com/">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="WhatsApp Icon" width="70px"></a>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-brand-vol-5-pack-logos-icons-2945092.png" alt="WhatsApp Icon" width="80px"></a>
   
 # ⚙️ Automation Repository
 
