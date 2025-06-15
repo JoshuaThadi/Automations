@@ -27,7 +27,11 @@
   
 # ⚙️ Automation Repository
 
-<h4>Automation is the use of technology to perform tasks with minimal human intervention. It aims to increase efficiency, accuracy, and speed by automating repetitive or complex operations that would otherwise require manual effort.</h4>
+<h4>
+
+>Automation is the use of technology to perform tasks with minimal human intervention. It aims to increase efficiency, accuracy, and speed by automating repetitive or complex operations that would otherwise require manual effort.
+  
+</h4>
 
 <a href="https://blog.tensorflow.org/2022/09/automated-deployment-of-tensorflow-models-with-tensorflow-serving-and-github-actions.html" target="_blank">
   <img src="https://img.shields.io/badge/TensorFlow-Auto_Deployment-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"></a>
