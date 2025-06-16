@@ -64,6 +64,13 @@ Automation is the use of technology to perform tasks with minimal human interven
 4] <b>Business Process Automation (BPA)</b> - Streamlining business workflows (e.g., Invoice processing, HR onboarding) <br>
 5] <b>Robotic Process Automation (RPA)</b> - Using bots to mimic human interactions with digital systems (e.g., Automating form filling, report generation) <br>
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 <h3>🧰 Core Automation Tools & Frameworks</h3>
 
 1] <b>Selenium</b> – Open-source framework for automating web applications across browsers and platforms. <br>
@@ -108,7 +115,11 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://smartbear.com/product/testcomplete/overview/" target="_blank">
   <img src="https://img.shields.io/badge/TestComplete-UI%20Testing-007FFF?style=for-the-badge&logo=smartbear&logoColor=white" alt="TestComplete"></a>
 
-
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>🧩 Specialized Automation Domains</h3>
@@ -123,6 +134,13 @@ Automation is the use of technology to perform tasks with minimal human interven
  <a href="https://www.blueprism.com/" target="_blank"> <img src="https://img.shields.io/badge/Blue%20Prism-Scalable%20Automation-D96666?style=for-the-badge&logo=blueprism&logoColor=white" alt="Blue Prism Badge"></a>
 <a href="https://www.uipath.com/" target="_blank"> <img src="https://img.shields.io/badge/UiPath-RPA%20Tool-F9B4B4?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Badge"></a> 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 <b>DevOps & CI/CD Automation</b><br>
 1] <b>Jenkins</b> – Automation server for building, testing, and deploying code. <br>
 2] <b>GitHub Actions</b> – CI/CD and workflow automation for GitHub projects. <br>
@@ -136,6 +154,11 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.shields.io/badge/Jenkins-Automation%20Server-F9B4B4?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins Badge"></a> 
 <a href="https://circleci.com/" target="_blank"> <img src="https://img.shields.io/badge/CircleCI-Dev%20Workflows-DE5C5C?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI Badge"></a> 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <b>Infrastructure as Code (IaC)</b><br>
@@ -149,6 +172,13 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://www.terraform.io/" target="_blank"> <img src="https://img.shields.io/badge/Terraform-IaC%20Provisioning-F9B4B4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Badge"></a>
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.shields.io/badge/Ansible-Config%20Management-EF8888?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a> 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
+
+
 <h3>📚 Key Subjects & Topics in Automation</h3>
 1] <b>Test Automation Fundamentals</b> – Basics of unit, integration, and system test automation. <br>
 2] <b>Behavior-Driven Development (BDD)</b> – Combines TDD with domain-driven design. <br>
@@ -156,6 +186,7 @@ Automation is the use of technology to perform tasks with minimal human interven
 4] <b>Infrastructure Automation</b> – Automating provisioning and configuration. <br>
 5] <b>Monitoring & Logging</b> – Tracking system performance and analyzing logs. <br>
 6] <b>Security Automation</b> – Automates threat detection and response. <br>
+<br>
 
 <a href="https://grafana.com/solutions/monitoring/" target="_blank"> <img src="https://img.shields.io/badge/Monitoring%20%26%20Logging-Observability-449C92?style=for-the-badge&logo=grafana&logoColor=white" alt="Monitoring and Logging Badge"></a>
 <a href="https://owasp.org/www-project-automated-threats/" target="_blank"> <img src="https://img.shields.io/badge/Security%20Automation-Threat%20Detection-2E8B7E?style=for-the-badge&logo=owasp&logoColor=white" alt="Security Automation Badge"></a> <a href="https://www.guru99.com/unit-testing-guide.html" target="_blank"> <img src="https://img.shields.io/badge/Test%20Automation-Fundamentals-A8DADC?style=for-the-badge&logo=pytest&logoColor=white" alt="Test Automation Badge"></a>
@@ -163,6 +194,11 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://cucumber.io/docs/bdd/" target="_blank"> <img src="https://img.shields.io/badge/BDD-Domain%20Driven%20Testing-8EC6B7?style=for-the-badge&logo=cucumber&logoColor=white" alt="BDD Badge"></a> 
 <a href="https://www.terraform.io/intro" target="_blank"> <img src="https://img.shields.io/badge/Infrastructure-Automation-58A99E?style=for-the-badge&logo=terraform&logoColor=white" alt="Infrastructure Automation Badge"></a> 
 
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>✮ Tools Used in Automation</h3>
@@ -191,6 +227,12 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.shields.io/badge/Ansible-Config%20Mgmt-81A1C1?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible Badge"></a>
 <a href="https://www.cypress.io/" target="_blank"> <img src="https://img.shields.io/badge/Cypress-E2E%20Testing-81A1C1?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress Badge"></a> 
 <a href="https://www.uipath.com/" target="_blank"> <img src="https://img.shields.io/badge/UiPath-RPA%20Platform-88C0D0?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath Badge"></a> 
+
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>✮ Common Automation Subjects</h3>
@@ -245,7 +287,11 @@ Automation is the use of technology to perform tasks with minimal human interven
 <a href="https://playwright.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Playwright-UI%20Testing-5E81AC?style=for-the-badge&logo=microsoft&logoColor=white" alt="Playwright Badge"></a>
 
-
+<div>
+  <p>
+    <h1></h1>
+  </p>
+</div>
 
 
 <h3>✮ Real-World Examples</h3>
