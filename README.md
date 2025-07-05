@@ -11,7 +11,7 @@
 <a href="https://www.selenium.dev/">
   <img src="https://www.svgrepo.com/download/354321/selenium.svg" alt="Selenium" width="75px"></a>
 <a href="https://www.tensorflow.org/">
-  <img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="TensorFlow" width="75px"></a>
+  <img src="https://www.svgrepo.com/show/354440/tensorflow.svg" alt="TensorFlow" width="75px"></a>
 <a href="https://keras.io/">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Keras" width="75px"></a>
 <a href="https://www.postman.com/">
