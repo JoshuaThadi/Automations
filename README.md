@@ -37,6 +37,7 @@ Automation is the use of technology to perform tasks with minimal human interven
 
 > [!IMPORTANT]
 > ## ✶ Automation Projects
+> <img width="100%" src="https://github.com/JoshuaThadi/Automations/blob/main/assests/Meta-WhatsApp.png" />
 >
 > ### 1] WhatsApp Automation
 >
